@@ -1,2 +1,6 @@
-com/erfan/hazelcastexample/TestController.class
 com/erfan/hazelcastexample/HazelcastExampleApplication.class
+com/erfan/hazelcastexample/YourController.class
+com/erfan/hazelcastexample/HazelcastConfiguration.class
+com/erfan/hazelcastexample/CustomCacheErrorHandler.class
+com/erfan/hazelcastexample/MyService.class
+com/erfan/hazelcastexample/DataObject.class

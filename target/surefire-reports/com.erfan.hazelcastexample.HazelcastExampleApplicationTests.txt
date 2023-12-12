@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.erfan.hazelcastexample.HazelcastExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.303 s - in com.erfan.hazelcastexample.HazelcastExampleApplicationTests
